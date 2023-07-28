@@ -1,4 +1,6 @@
 # Demo Apps
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fmig-demo-apps.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fmig-demo-apps?ref=badge_shield)
+
 
 This is a collection of demo apps you can deploy on your OpenShift cluster. These apps are intended to demonstrate and test migrations.
 
@@ -95,3 +97,7 @@ Find README here : [./infra/minio/README.md](./infra/minio/README.md)
 
 ## Code of Conduct
 Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Fmig-demo-apps.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Fmig-demo-apps?ref=badge_large)
